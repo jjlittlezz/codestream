@@ -183,10 +183,6 @@ automatically scrolled to the block of code where you need to do your work.
 - **Issue Trackers:** Asana, Azure DevOps, Clubhouse, GitHub, GitHub Enterprise, Jira, Linear, Trello, YouTrack
 - **Messaging Services:** Slack, Microsoft Teams
 
-### Does CodeStream have an on-prem solution?
-
-Yes! If it's important for your company to keep everything on your own local network, read our [CodeStream On-Prem documentation](https://docs.codestream.com/onprem/) to learn more about the offering. You can be up and running in just minutes!
-
 ### Where are messages stored?
 
 Your team’s codemarks, which include the message text and the code snippet, are stored in the cloud on CodeStream’s servers. CodeStream uses best practices when it comes to [security](https://www.codestream.com/security).
