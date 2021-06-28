@@ -175,7 +175,7 @@ automatically scrolled to the block of code where you need to do your work.
 
 ### What are the system requirements?
 
-- CodeStream requires a current version of [Visual Studio Code](https://code.visualstudio.com/), and is also available for [JetBrains](https://plugins.jetbrains.com/plugin/12206-codestream), [Visual Studio](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream-vs) or [Atom](https://atom.io/packages/codestream).
+- CodeStream requires a current version of [Visual Studio Code](https://code.visualstudio.com/), and is also available for [JetBrains](https://plugins.jetbrains.com/plugin/12206-codestream) or [Visual Studio](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream-vs).
 - Your repository must be managed by Git, or a Git hosting service like GitHub.
 
 ### What integrations does CodeStream offer?
