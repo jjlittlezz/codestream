@@ -2,7 +2,7 @@
 	"name": "github-enterprise",
 	"displayName": "GitHub Enterprise: Pull Requests and Code Review",
 	"description": "GitHub pull requests and issues in your IDE. Eliminate context-switching between tools. Also integrates with Slack, MS Teams, Jira, Trello and more.",
-	"version": "11.0.12",
+	"version": "11.0.13",
 	"author": "CodeStream",
 	"publisher": "CodeStream",
 	"license": "UNLICENSED",
