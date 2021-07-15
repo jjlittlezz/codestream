@@ -28,7 +28,8 @@ SOFTWARE.
 /**
  * Modifications Copyright CodeStream Inc. under the Apache 2.0 License (Apache-2.0)
  */
-export const extensionId = "codestream";
+
+export const extensionId = "github-enterprise";
 export const extensionOutputChannelName = "CodeStream";
 export const extensionQualifiedId = `CodeStream.${extensionId}`;
 
@@ -52,6 +53,6 @@ export enum BuiltInCommands {
 	RevealLine = "revealLine",
 	ReloadWindow = "workbench.action.reloadWindow",
 	SetContext = "setContext",
-	ShowCodeStream = "workbench.view.extension.codestream",
+	ShowCodeStream = "workbench.view.extension.github-enterprise",
 	ShowReferences = "editor.action.showReferences"
 }
